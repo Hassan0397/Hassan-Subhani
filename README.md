@@ -1,6 +1,6 @@
 # Hassan-Subhani
 
-🎓 Software Engineering Graduate | 📊 Data Analyst | 🤖 Generative AI & Prompt Engineer
+🎓 Software Engineering Graduate | 📊 Data Analyst | 🤖 Machine Learning | Generative AI & Prompt Engineer
 
 I’m a results-driven Software Engineer turned Data Analyst, passionate about transforming data into insights and building intelligent solutions using AI, Machine Learning, automation, and analytics.
 My work combines strong analytical thinking, clean engineering, and modern AI tools to solve real business problems.
