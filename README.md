@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Graduate | 📊 Data Analyst | 🤖 Generative AI & Prompt Engineer
 
-I’m a results-driven Software Engineer turned Data Analyst, passionate about transforming data into insights and building intelligent solutions using AI, automation, and analytics.
+I’m a results-driven Software Engineer turned Data Analyst, passionate about transforming data into insights and building intelligent solutions using AI, Machine Learning, automation, and analytics.
 My work combines strong analytical thinking, clean engineering, and modern AI tools to solve real business problems.
 
 🔥 What I Do
@@ -10,6 +10,8 @@ My work combines strong analytical thinking, clean engineering, and modern AI to
 📊 Data Analysis & Visualization (Power BI, Python, Excel)
 
 🗄️ Database Management (MySQL, SQL modeling, complex queries)
+
+🤖 Machine Learning (Supervised, Unsupervised, Regression, Classification)
 
 🤖 Generative AI & LLM Apps (LangChain, OpenAI, agent workflows)
 
